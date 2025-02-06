@@ -1,3 +1,3 @@
-const ageCal = require("./app/function")
+const obj = require("./app/function")
 
-console.log(ageCal("Asikul Islam", 26))
+console.log(obj)
