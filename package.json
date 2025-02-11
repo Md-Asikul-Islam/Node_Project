@@ -1,7 +1,7 @@
 {
   "name": "node_project",
   "version": "1.0.0",
-  "description": "This is a node server for learning ",
+  "description": "This is advance Node Project ",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/Md-Asikul-Islam/Node_Project.git"
   },
-  "author": "Asikul Islam",
+  "author": "Md Asikul Islam",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Md-Asikul-Islam/Node_Project/issues"
