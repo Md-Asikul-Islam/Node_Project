@@ -19,6 +19,7 @@
   "homepage": "https://github.com/Md-Asikul-Islam/Node_Project#readme",
   "dependencies": {
     "colors": "^1.4.0",
+    "dotenv": "^16.4.7",
     "nodemon": "^3.1.9"
   }
 }
